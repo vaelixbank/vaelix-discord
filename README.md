@@ -1,1 +1,1 @@
-# vaelix-discord
+# Vaelix Bank Discord Bot
